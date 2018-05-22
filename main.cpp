@@ -3,7 +3,7 @@ using namespace std;
 int test(int a,int b)
 {
 
-	int c=300;
+	int c=3100;
 	int d=100;
 	int xx=1000;
 	return a+b+c+d;
