@@ -2,7 +2,8 @@
 using namespace std;
 int test(int a,int b)
 {
-	int c=300;
+
+	int c=200;
 	return a+b+c;
 }
 
