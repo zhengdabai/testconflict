@@ -3,8 +3,9 @@ using namespace std;
 int test(int a,int b)
 {
 
-	int c=50;
-	return a+b+c;
+	int c=300;
+	int d=100;
+	return a+b+c+d;
 }
 
 void main()
