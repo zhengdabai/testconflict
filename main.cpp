@@ -5,6 +5,7 @@ int test(int a,int b)
 
 	int c=300;
 	int d=100;
+	int xx=1000;
 	return a+b+c+d;
 }
 
