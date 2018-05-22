@@ -5,7 +5,7 @@ int test(int a,int b)
 
 	int c=3100;
 	int d=100;
-	int xx=400;
+	int xx=222200;
 	return a+b+c+d;
 }
 
