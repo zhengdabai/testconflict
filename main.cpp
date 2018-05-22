@@ -2,7 +2,8 @@
 using namespace std;
 int test(int a,int b)
 {
-	return a+b;
+	int c=100;
+	return a+b+c;
 }
 
 void main()
