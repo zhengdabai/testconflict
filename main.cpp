@@ -11,7 +11,8 @@ int test(int a,int b)
 
 void main()
 {
-	
+        string str="test git";
+
 	int rst;
 	int a=10,b=20;
 	rst=test(a,b);
